@@ -1,4 +1,4 @@
-## Hi there, my name is Jay Wang
+## 👋 Hi there, my name is Jay Wang
 
 <!--
 **hpjay17/hpjay17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,6 +62,6 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 - Data and Decision Analytics
 - Linear Algebra
 
-## Let’s Connect
+## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/wangjay17)
 - Email: jay.wang@emory.edu
