@@ -27,7 +27,7 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 - Applied machine learning for decision-making
 - Translating data insights into business strategy
 
-## 📚 Technical Skills
+## 🔌 Technical Skills
 
 **Programming & Analysis**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -44,7 +44,7 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 - Decision Trees
 - Data Cleaning & Feature Engineering
 
-## Featured Projects
+## 📝 Featured Projects
 
 ### Employee Attrition Analysis
 - Analyzed workplace drivers of employee turnover using Python
@@ -57,7 +57,7 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 - Analytics-focused finance or operations roles
 - Consulting and strategy roles with a data emphasis
 
-## Relevant Coursework
+## 📚 Relevant Coursework
 - Applied Data Analytics w/ Coding
 - Data and Decision Analytics
 - Linear Algebra
