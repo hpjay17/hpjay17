@@ -21,7 +21,7 @@ I'm currently pursuing a Bachelor of Business Administration in **Finance** with
 
 I’m passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **Python, SQL, Excel, or R** I enjoy exploring trends, optimizing operations and designing data-driven solutions. My goal is to pursue a career in **finance, data analytics, operations strategy, or consulting** where I can connect technology and business to make meaningful impacts.
 
-## Interests & Focus Areas
+## 🎨 Interests & Focus Areas
 - Data analytics & business intelligence
 - Financial and operational analysis
 - Applied machine learning for decision-making
@@ -52,7 +52,7 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 - Delivered actionable retention recommendations  
 🔗 [View Project](https://github.com/hpjay17/employee-attrition-analysis)
 
-## Career Interests
+## 📊 Career Interests
 - Data Analyst / Business Analyst roles
 - Analytics-focused finance or operations roles
 - Consulting and strategy roles with a data emphasis
