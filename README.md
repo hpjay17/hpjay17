@@ -1,5 +1,3 @@
-## 👋 Hi there, my name is Jay Wang
-
 <!--
 **hpjay17/hpjay17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # 🧑‍🎓 About Me
+
+Hi there, my name is Jay Wang
 
 I'm currently pursuing a Bachelor of Business Administration in **Finance** with a secondary major in **Data Science (DATASCI)** at Emory University - Goizueta Business School, I am employed as an IT Assistant within Emory College Business Operations. I provide daily IT support, managing hardware setups, and supporting robotics operations with a foundation in programming languages like Python.
 
