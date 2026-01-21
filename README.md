@@ -49,7 +49,7 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 ### Employee Attrition Analysis
 - Analyzed workplace drivers of employee turnover using Python
 - Built logistic regression and decision tree models
-- Delivered actionable retention recommendations  
+- Delivered actionable retention recommendations
 🔗 [View Project](https://github.com/hpjay17/employee-attrition-analysis)
 
 ## 📊 Career Interests
