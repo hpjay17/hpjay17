@@ -50,7 +50,7 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 - Analyzed workplace drivers of employee turnover using Python
 - Built logistic regression and decision tree models
 - Delivered actionable retention recommendations
-🔗 [View Project](https://github.com/hpjay17/employee-attrition-analysis)
+  🔗 [View Project](https://github.com/hpjay17/employee-attrition-analysis)
 
 ## 📊 Career Interests
 - Data Analyst / Business Analyst roles
