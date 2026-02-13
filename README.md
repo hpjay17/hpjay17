@@ -24,7 +24,6 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 ## 🎨 Interests & Focus Areas
 - Data analytics & business intelligence
 - Financial and operational analysis
-- Applied machine learning for decision-making
 - Translating data insights into business strategy
 
 ## 🔌 Technical Skills
@@ -36,7 +35,8 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 
 **Data & BI Tools**
 - Excel (Pivot Tables, Lookups)
-- Tableau / Power BI
+- Tableau
+- Power BI
 
 **Modeling & Methods**
 - Exploratory Data Analysis (EDA)
