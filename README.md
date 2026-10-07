@@ -39,7 +39,7 @@ I'm passionate about financial data analysis, exploring large datasets, and deve
 
 | Organization | Role | Highlights |
 |---|---|---|
-| **Capital One** | Incoming Data Analyst Intern *(Summer 2027)* | — |
+| **Capital One** | Incoming Data Analyst Intern *(Summer 2027)* |  |
 | **Hartsfield-Jackson Atlanta International Airport** | Internal Audit Intern | Audited an **$18M** airfield contract (payments, invoices, insurance compliance) · Raised Sustainable Food Court Initiative compliance from **37% → 58%** |
 | **Invest Atlanta** | Student Data Analyst | Joined four city datasets (fresh food sites, USDA low-income/low-access tracts, 17K+ business licenses, tax parcels) in **GeoPandas** · Built an **OLS regression** to flag tracts underserved beyond their socioeconomic profile |
 | **Techbridge** | Data Research Intern | Built statistical models forecasting local food demand by category to support inventory planning |
@@ -72,7 +72,12 @@ Analyzed drivers of employee turnover with logistic regression and decision tree
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Methods**<br>
-EDA · OLS & Logistic Regression · Decision Trees · Geospatial Analysis · Forecasting · Data Cleaning & Feature Engineering
+- EDA
+- OLS & Logistic Regression
+- Decision Trees
+- Geospatial Analysis
+- Forecasting
+- Data Cleaning & Feature Engineering
 
 ---
 
