@@ -78,11 +78,12 @@ EDA · OLS & Logistic Regression · Decision Trees · Geospatial Analysis · For
 
 ### 📚 Relevant Coursework
 
-| Data & Analytics | Business & Math |
-|---|---|
-| Applied Data Analytics w/ Coding | Corporate Finance |
-| Business Data Analytics | Operations Strategy |
-| Data and Decision Analytics | Linear Algebra |
+- Applied Data Analytics w/ Coding
+- Business Data Analytics
+- Data and Decision Analytics
+- Corporate Finance
+- Operations Strategy
+- Linear Algebra
 
 ---
 
