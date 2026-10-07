@@ -12,56 +12,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Jay 👋
 
-# 🧑‍🎓 About Me
+**Incoming Data Analyst Intern @ Capital One** · BBA in Finance & ISOM, Minor in Data Science @ Emory University – Goizueta Business School · ✈️ FAA Private Pilot
 
-Hi, my name is Jay Wang
+I’m passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **SQL, Python, R, or Excel** I enjoy exploring trends, optimizing operations and designing data-driven solutions. My goal is to pursue a career in **consulting, data analytics, finance or operations strategy** where I can connect technology and business to make meaningful impacts.
 
-I'm currently pursuing a Bachelor of Business Administration in **Finance** with a secondary major in **Data Science (DATASCI)** at Emory University - Goizueta Business School, I am employed as an IT Assistant within Emory College Business Operations. I provide daily IT support, managing hardware setups, and supporting robotics operations with a foundation in programming languages like Python.
+---
 
-I’m passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **Python, SQL, Excel, or R** I enjoy exploring trends, optimizing operations and designing data-driven solutions. My goal is to pursue a career in **finance, data analytics, operations strategy, or consulting** where I can connect technology and business to make meaningful impacts.
+## 🔍 What I've Worked On
 
-## 🎨 Interests & Focus Areas
-- Data analytics & business intelligence
-- Financial and operational analysis
-- Translating data insights into business strategy
+**Capital One** — *Incoming Data Analyst Intern (Summer 2027)*
 
-## 🔌 Technical Skills
+**Hartsfield-Jackson Atlanta International Airport** — *Internal Audit Intern*
+- Audited an $18M airfield contract (payments, invoices, insurance compliance)
+- Led a concourse-wide sustainability audit that raised Sustainable Food Court Initiative compliance from **37% → 58%**
 
-**Programming & Analysis**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-- R
+**Invest Atlanta** — *Student Data Analyst*
+- Joined four city datasets (fresh food sites, USDA low-income/low-access tracts, 17K+ business licenses, tax parcels) in **GeoPandas**
+- Built an **OLS regression** to predict food access and used residuals to flag tracts underserved beyond their socioeconomic profile
 
-**Data & BI Tools**
-- Excel (Pivot Tables, Lookups)
-- Tableau
-- Power BI
+**Techbridge** — *Data Research Intern*
+- Built statistical models forecasting local food demand by category to support inventory planning
 
-**Modeling & Methods**
-- Exploratory Data Analysis (EDA)
-- Logistic Regression
-- Decision Trees
-- Data Cleaning & Feature Engineering
+---
 
 ## 📝 Featured Projects
 
 ### Employee Attrition Analysis
-- Analyzed workplace drivers of employee turnover using Python
-- Built logistic regression and decision tree models
-- Delivered actionable retention recommendations
-- 🔗 [View Project](https://github.com/hpjay17/employee-attrition-analysis)
+Analyzed drivers of employee turnover with logistic regression and decision trees, and turned the results into retention recommendations.
+🔗 [View Project](https://github.com/hpjay17/employee-attrition-analysis)
 
-## 📊 Career Interests
-- Data Analyst / Business Analyst roles
-- Analytics-focused finance or operations roles
-- Consulting and strategy roles with a data emphasis
+---
+
+## 🛠️ Toolkit
+
+**Languages:** SQL · Python (pandas, NumPy, GeoPandas, Matplotlib, Seaborn) · R
+**BI & Tools:** Excel · Tableau · Power BI · Git
+**Methods:** EDA · OLS & Logistic Regression · Decision Trees · Geospatial Analysis · Forecasting · Data Cleaning & Feature Engineering
+
+---
 
 ## 📚 Relevant Coursework
-- Applied Data Analytics w/ Coding
-- Data and Decision Analytics
-- Linear Algebra
+Applied Data Analytics w/ Coding · Business Data Analytics · Data and Decision Analytics · Corporate Finance · Operations Strategy · Linear Algebra
 
-## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/wangjay17)
-- Email: jay.wang@emory.edu
+---
+
+## ✈️ Outside of Data
+Flying · Competitive rowing (Emory Crew) · Treasurer, Emory Aviators · Violin · GeoGuessr
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/wangjay17) · jay.wang@emory.edu
