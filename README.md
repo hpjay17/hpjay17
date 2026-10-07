@@ -62,7 +62,7 @@ Applied Data Analytics w/ Coding · Business Data Analytics · Data and Decision
 ---
 
 ## ✈️ Outside of Data
-Flying · Competitive rowing (Emory Crew) · Treasurer, Emory Aviators · Violin · GeoGuessr
+Flying · Rowing · Violin · GeoGuessr
 
 ---
 
