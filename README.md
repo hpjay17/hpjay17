@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Jay 👋
 
-**Incoming Data Analyst Intern @ Capital One** 
-· BBA in Finance & ISOM, Minor in Data Science @ Emory University – Goizueta Business School 
-· FAA Private Pilot ✈️
+**Incoming Data Analyst Intern @ Capital One**<br>
+BBA in Finance & ISOM, Minor in Data Science @ Emory University – Goizueta Business School<br>
+FAA Private Pilot ✈️
 
-I’m passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **SQL, Python, R, or Excel** I enjoy exploring trends, optimizing operations and designing data-driven solutions. My goal is to pursue a career in **consulting, data analytics, finance or operations strategy** where I can connect technology and business to make meaningful impacts.
+I’m passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **SQL, Python, R, or Excel**, I enjoy exploring trends, optimizing operations, and designing data-driven solutions. My goal is to pursue a career in **consulting, data analytics, finance, or operations strategy** where I can connect technology and business to make meaningful impacts.
 
 ---
 
 ## 🔍 What I've Worked On
 
-**Capital One** 
-— *Incoming Data Analyst Intern (Summer 2027)*
+**Capital One** — *Incoming Data Analyst Intern (Summer 2027)*
 
 **Hartsfield-Jackson Atlanta International Airport** — *Internal Audit Intern*
 - Audited an $18M airfield contract (payments, invoices, insurance compliance)
@@ -44,15 +43,16 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 
 ### Employee Attrition Analysis
 Analyzed drivers of employee turnover with logistic regression and decision trees, and turned the results into retention recommendations.
+
 🔗 [View Project](https://github.com/hpjay17/employee-attrition-analysis)
 
 ---
 
 ## 🛠️ Toolkit
 
-**Languages:** SQL · Python (pandas, NumPy, GeoPandas, Matplotlib, Seaborn) · R
-**BI & Tools:** Excel · Tableau · Power BI · Git
-**Methods:** EDA · OLS & Logistic Regression · Decision Trees · Geospatial Analysis · Forecasting · Data Cleaning & Feature Engineering
+- **Languages:** SQL · Python (pandas, NumPy, GeoPandas, Matplotlib, Seaborn) · R
+- **BI & Tools:** Excel · Tableau · Power BI · Git
+- **Methods:** EDA · OLS & Logistic Regression · Decision Trees · Geospatial Analysis · Forecasting · Data Cleaning & Feature Engineering
 
 ---
 
@@ -67,5 +67,5 @@ Flying · Competitive rowing (Emory Crew) · Treasurer, Emory Aviators · Violin
 ---
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/wangjay17) 
+[LinkedIn](https://www.linkedin.com/in/wangjay17)<br>
 jay.wang@emory.edu
