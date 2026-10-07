@@ -48,7 +48,7 @@ I'm passionate about financial data analysis, exploring large datasets, and deve
 
 ### 📝 Featured Project
 
-**[Employee Attrition Analysis](https://github.com/hpjay17/employee-attrition-analysis)**
+**[Employee Attrition Analysis](https://github.com/hpjay17/employee-attrition-analysis)** <br>
 Analyzed drivers of employee turnover with logistic regression and decision trees, and turned the results into retention recommendations.
 
 ---
@@ -72,7 +72,7 @@ Analyzed drivers of employee turnover with logistic regression and decision tree
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Methods**<br>
-- EDA
+- Exploratory Data Analysis (EDA)
 - OLS & Logistic Regression
 - Decision Trees
 - Geospatial Analysis
