@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Jay 👋
 
-**Incoming Data Analyst Intern @ Capital One** · BBA in Finance & ISOM, Minor in Data Science @ Emory University – Goizueta Business School · ✈️ FAA Private Pilot
+**Incoming Data Analyst Intern @ Capital One** 
+· BBA in Finance & ISOM, Minor in Data Science @ Emory University – Goizueta Business School 
+· FAA Private Pilot ✈️
 
 I’m passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **SQL, Python, R, or Excel** I enjoy exploring trends, optimizing operations and designing data-driven solutions. My goal is to pursue a career in **consulting, data analytics, finance or operations strategy** where I can connect technology and business to make meaningful impacts.
 
@@ -22,7 +24,8 @@ I’m passionate about financial data analysis, exploring large datasets, and de
 
 ## 🔍 What I've Worked On
 
-**Capital One** — *Incoming Data Analyst Intern (Summer 2027)*
+**Capital One** 
+— *Incoming Data Analyst Intern (Summer 2027)*
 
 **Hartsfield-Jackson Atlanta International Airport** — *Internal Audit Intern*
 - Audited an $18M airfield contract (payments, invoices, insurance compliance)
@@ -64,4 +67,5 @@ Flying · Competitive rowing (Emory Crew) · Treasurer, Emory Aviators · Violin
 ---
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/wangjay17) · jay.wang@emory.edu
+[LinkedIn](https://www.linkedin.com/in/wangjay17) 
+jay.wang@emory.edu
