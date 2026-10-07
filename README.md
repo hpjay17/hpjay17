@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Jay 👋</h1>
 
 <p align="center">
-  <b>Incoming Data Analyst Intern @ Capital One</b><br>
-  
-  BBA in Finance & ISOM · Minor in Data Science · Emory University, Goizueta Business School<br>
+  <b>Incoming Data Analyst Intern @ Capital One</b><br><br>
+  BBA in Finance & ISOM · Minor in Data Science · Emory University, Goizueta Business School<br><br>
   ✈️ FAA Private Pilot
 </p>
 
