@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>Incoming Data Analyst Intern @ Capital One</b><br>
-  BBA in Finance & ISOM · Minor in Data Science · Emory University – Goizueta Business School<br>
+  BBA in Finance & ISOM · Minor in Data Science · Emory University, Goizueta Business School<br>
   ✈️ FAA Private Pilot
 </p>
 
@@ -82,7 +82,6 @@ Analyzed drivers of employee turnover with logistic regression and decision tree
 ---
 
 ### 📚 Relevant Coursework
-
 - Applied Data Analytics w/ Coding
 - Business Data Analytics
 - Data and Decision Analytics
@@ -93,5 +92,4 @@ Analyzed drivers of employee turnover with logistic regression and decision tree
 ---
 
 ### ✈️ Outside of Data
-
 Flying · Rowing · Violin · GeoGuessr
