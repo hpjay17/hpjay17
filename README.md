@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 # Hi, I'm Jay 👋
 
 **Incoming Data Analyst Intern @ Capital One**<br>
-BBA in Finance & ISOM, Minor in Data Science @ Emory University – Goizueta Business School<br>
-FAA Private Pilot ✈️
+- BBA in Finance & ISOM, Minor in Data Science @ Emory University – Goizueta Business School<br>
+- FAA Private Pilot ✈️
 
 I’m passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **SQL, Python, R, or Excel**, I enjoy exploring trends, optimizing operations, and designing data-driven solutions. My goal is to pursue a career in **consulting, data analytics, finance, or operations strategy** where I can connect technology and business to make meaningful impacts.
 
@@ -57,7 +57,12 @@ Analyzed drivers of employee turnover with logistic regression and decision tree
 ---
 
 ## 📚 Relevant Coursework
-Applied Data Analytics w/ Coding · Business Data Analytics · Data and Decision Analytics · Corporate Finance · Operations Strategy · Linear Algebra
+· Applied Data Analytics w/ Coding 
+· Business Data Analytics 
+· Data and Decision Analytics 
+· Corporate Finance 
+· Operations Strategy 
+· Linear Algebra
 
 ---
 
