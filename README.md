@@ -40,7 +40,7 @@ A career in **consulting, data analytics, finance, or operations strategy**, con
 
 | Organization | Role | Highlights |
 |---|---|---|
-| **Capital One** | Incoming Data Analyst Intern *(Summer 2027)* | Selected through Capital One’s Analyst Summit and Power Day (case and behavioral interviews) for Summer 2027 |
+| **Capital One** | Incoming Data Analyst Intern | Selected through Capital One’s Analyst Summit and Power Day (case and behavioral interviews) for Summer 2027 |
 | **Hartsfield-Jackson Atlanta International Airport** | Internal Audit Intern | Audited an **$18M** airfield contract (payments, invoices, insurance compliance) · Raised Sustainable Food Court Initiative compliance from **37% -> 58%** |
 | **Invest Atlanta** | Student Data Analyst | Joined four city datasets (fresh food sites, USDA low-income/low-access tracts, 17K+ business licenses, tax parcels) in **GeoPandas** · Built an **OLS regression** to flag tracts underserved beyond their socioeconomic profile |
 | **Techbridge** | Data Research Intern | Built statistical models forecasting local food demand by category to support inventory planning |
