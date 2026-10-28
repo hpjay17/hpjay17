@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 I'm passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **SQL, Python, R, or Excel**, I enjoy exploring trends, optimizing operations, and designing data-driven solutions.
 
-🎯 **Goal** 
+### 🎯 Goal 
 A career in **consulting, data analytics, finance, or operations strategy**, connecting technology and business to make meaningful impact.
 
 ---
