@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>Incoming Data Analyst Intern @ Capital One</b><br><br>
-  BBA in Finance & ISOM · Minor in Data Science · Emory University, Goizueta Business School<br><br>
+  BBA in Finance & ISOM · Minor in Data Science · Emory University Goizueta Business School<br><br>
   ✈️ FAA Private Pilot
 </p>
 
@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 I'm passionate about financial data analysis, exploring large datasets, and developing solutions that turn insights into real business impact. Whether through **SQL, Python, R, or Excel**, I enjoy exploring trends, optimizing operations, and designing data-driven solutions.
 
-🎯 **Goal:** A career in **consulting, data analytics, finance, or operations strategy**, connecting technology and business to make meaningful impact.
+🎯 **Goal** 
+A career in **consulting, data analytics, finance, or operations strategy**, connecting technology and business to make meaningful impact.
 
 ---
 
@@ -39,8 +40,8 @@ I'm passionate about financial data analysis, exploring large datasets, and deve
 
 | Organization | Role | Highlights |
 |---|---|---|
-| **Capital One** | Incoming Data Analyst Intern *(Summer 2027)* |  |
-| **Hartsfield-Jackson Atlanta International Airport** | Internal Audit Intern | Audited an **$18M** airfield contract (payments, invoices, insurance compliance) · Raised Sustainable Food Court Initiative compliance from **37% → 58%** |
+| **Capital One** | Incoming Data Analyst Intern *(Summer 2027)* | Selected through Capital One’s Analyst Summit and Power Day (case and behavioral interviews) for Summer 2027 |
+| **Hartsfield-Jackson Atlanta International Airport** | Internal Audit Intern | Audited an **$18M** airfield contract (payments, invoices, insurance compliance) · Raised Sustainable Food Court Initiative compliance from **37% -> 58%** |
 | **Invest Atlanta** | Student Data Analyst | Joined four city datasets (fresh food sites, USDA low-income/low-access tracts, 17K+ business licenses, tax parcels) in **GeoPandas** · Built an **OLS regression** to flag tracts underserved beyond their socioeconomic profile |
 | **Techbridge** | Data Research Intern | Built statistical models forecasting local food demand by category to support inventory planning |
 
@@ -65,19 +66,19 @@ Analyzed drivers of employee turnover with logistic regression and decision tree
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-**BI & Tools**<br>
+**Tools**<br>
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Methods**<br>
+- Data Cleaning
 - Exploratory Data Analysis (EDA)
 - OLS & Logistic Regression
 - Decision Trees
 - Geospatial Analysis
 - Forecasting
-- Data Cleaning & Feature Engineering
 
 ---
 
